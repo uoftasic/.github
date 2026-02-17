@@ -16,4 +16,4 @@ We are affiliated with the University of Toronto's IEEE Student Branch, as a bra
 The ASIC Team is a project team within the organization focused on our mission statement.
 
 ## Contact
-You can find us on email: <projects@ieee.utoronto.ca>
+You can find us on email: <asic@ieee.utoronto.ca>
